@@ -1,4 +1,7 @@
-# CLAUDE.md
+# Agent instructions
+
+<!-- AGENTS.md is a symlink to this file. Edit here; both stay in sync. -->
+
 
 ## Personal reference docs
 - `references/style.md` is the canonical clothing/style profile for
