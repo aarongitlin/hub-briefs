@@ -67,7 +67,7 @@ Verbatim (Style):
 Verbatim (Fit):
 - Closer to ground than Merrel but generous width + toe room
 - Might be too long, but no heel slip
-- Superfeet: works better w/ these. Feels struct[?] + notice length less
+- Superfeet: works better w/ these. Feels structured + notice length less
 - Hike — Currex: also works, no slip
 
 ### Stage 2: Style (subjective gate)
@@ -87,7 +87,7 @@ Verbatim (Style):
 
 ## SHOE: New Balance 990
 
-- Size ordered: [not written]
+- Size ordered: 8
 - Insole used for test: [x] stock  [x] Superfeet  [x] Currex  [ ] none
 - Wear test length: [ ] quick try  [ ] 15+ min walking  [ ] hours
 
@@ -149,7 +149,7 @@ Verbatim (Overall):
 Verbatim (Fit):
 - Plush + cushy out of the box, but might be too structured for my right foot
 - Currex Hike: helps but doesn't solve the high arch problem, otherwise, works
-- Superfeet: same, slightly better than Currex at [?]resolving arch but still there
+- Superfeet: same, slightly better than Currex at resolving arch but still there
 
 ### Stage 2: Style (subjective gate)
 
@@ -212,7 +212,7 @@ Verbatim (Overall):
 ## All shoes (my summary ranking)
 
 - Comfort: Merrel > Flower > NB > Veja > Novesta  (But all fit except Novesta)
-- Style: Flower > Novesta > Veja > Merrel > NB [?]
+- Style: Flower > Novesta > Veja = Merrel > NB  (bracket drawn between Veja and Merrel = style tie)
 
 ---
 
