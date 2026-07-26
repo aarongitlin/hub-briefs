@@ -11,8 +11,7 @@ Insole note: cards refer to "Currex" where the template lists "Runnex" — kept 
 
 - Size ordered: 8
 - Insole used for test: [x] stock  [x] Superfeet  [x] Currex  [ ] none
-- Wear test length: [ ] quick try  [x] 15+ min walking  [ ] hours
-  - (first walk with no insole, then a run test)
+- Wear test length: 1 minutes with each shoe/insole combo walking around the house
 
 ### Stage 1: Fit (objective gate)
 
@@ -43,7 +42,7 @@ Verbatim (Fit):
 Verbatim (Style):
 - Solid, maybe better than expected
 - Definitely a little outdoorsy but not dorky. Not street fashion either. Overall looks good
-- Fits criteria of nicer looking Brooks Cascadia
+- Fits criteria of a nicer looking Brooks Cascadia
 
 ---
 
@@ -51,7 +50,7 @@ Verbatim (Style):
 
 - Size ordered: EUR 42
 - Insole used for test: [x] stock  [x] Superfeet  [x] Currex  [ ] none
-- Wear test length: [ ] quick try  [ ] 15+ min walking  [ ] hours
+- Wear test length: 1 minutes with each shoe/insole combo walking around the house
 
 ### Stage 1: Fit (objective gate)
 
@@ -80,8 +79,8 @@ Verbatim (Fit):
 - If deliberating: what would settle it? [ ] wear it a day indoors  [ ] second opinion  [ ] see it with specific outfit
 
 Verbatim (Style):
-- Mesh makes them a little sportier, but the suede is nice. Needs new laces. Color maybe easier to style than Merrel
-- Overall more sneaker-ish, lower profile. Will look good in more neutral laces. Is it too long?
+- Mesh makes them a little sportier, but the suede is nice. Might need new laces. Color maybe easier to style than Merrel
+- Overall more sneaker-ish, lower profile. Would look good in more neutral laces. Feels more like a street shoe than Merrels. Is it too long?
 
 ---
 
@@ -89,16 +88,16 @@ Verbatim (Style):
 
 - Size ordered: 8
 - Insole used for test: [x] stock  [x] Superfeet  [x] Currex  [ ] none
-- Wear test length: [ ] quick try  [ ] 15+ min walking  [ ] hours
+- Wear test length: 1 minutes with each shoe/insole combo walking around the house
 
 ### Stage 1: Fit (objective gate)
 
 - Length: [x] good  [ ] long  [ ] short
-- Toe box: [ ] roomy  [x] acceptable  [ ] tight
+- Toe box: [x] roomy  [] acceptable  [ ] tight
 - Width/midfoot: [x] good  [ ] sloppy  [ ] pinches
-  - (generous width, but base feels a little narrower than others)
+  - (generous width, but sole feels a little narrower than others)
 - Heel: [ ] locked  [x] slight slip  [ ] real slip
-  - (tiny heel slip on left foot, fixable)
+  - (tiny heel slip on left foot with the superfeed, but fixable)
 - With my insole swapped in: [x] better  [ ] same  [ ] worse  [ ] n/a
 - Anything that would become pain at hour three: base a little narrower than others, more noticeable in my flatter right foot that "spills over" a tiny bit
 
@@ -119,7 +118,7 @@ Verbatim (Fit):
 - If deliberating: what would settle it? [ ] wear it a day indoors  [ ] second opinion  [ ] see it with specific outfit
 
 Verbatim (Style):
-- Most sneakery but also most "street." Nice color + texture. Similar class as Vejas, maybe slightly elevated
+- Most sneakery but also most "street." Nice color + texture. Similar class as Vejas, maybe slightly more elevated. Love the colors and interesting shape, but the contrast between the top and bottom feel a little more sneakery than i was hoping for 
 
 Verbatim (Overall):
 - A good fit, though the base feels a little narrower than others. More noticeable in my flatter right foot that "spills over" a tiny bit
@@ -130,7 +129,7 @@ Verbatim (Overall):
 
 - Size ordered: US M8
 - Insole used for test: [x] stock  [x] Superfeet  [x] Currex  [ ] none
-- Wear test length: [ ] quick try  [ ] 15+ min walking  [ ] hours
+- Wear test length: 1 minutes with each shoe/insole combo walking around the house
 
 ### Stage 1: Fit (objective gate)
 
@@ -172,7 +171,7 @@ Verbatim (Overall):
 
 - Size ordered: EUR 41
 - Insole used for test: [x] stock  [x] Superfeet  [x] Currex  [ ] none
-- Wear test length: [ ] quick try  [ ] 15+ min walking  [ ] hours
+- Wear test length: 1 minutes with each shoe/insole combo walking around the house
 
 ### Stage 1: Fit (objective gate)
 
@@ -218,16 +217,12 @@ Verbatim (Overall):
 
 ## Stage 3: Portfolio decision (after full batch is tried)
 
-Shoes that passed BOTH gates:
+Shoes that passed BOTH gates: All except Novesta
 
-| Shoe | Role in rotation | Head-to-head rival (owned or in batch) | Keep? |
-|---|---|---|---|
-|  |  |  |  |
-
-- Slots I am actually filling this season (be honest, not aspirational):
-- If two fill the same slot, which one wins and why (one line):
-- Total keeping:        Total returning:
-- Any "passed both gates but returning anyway" calls, and the reason:
+The Flower Mountains are the clear winner. I plan on keeping those.
+The Novestas are the only losers, because of fit. I'll return those.
+The other 3 I like and fit but will have to return them, or keep 1 IF i can come up with a good reason.
+I think the Veja and Merrels beat out the NBs, just a vibe. The Vejas look slightly better, but I'm not yet 100% yet on the fit yet, and if it needs a size down or not. 
 
 ## Stage 4: Grade the sealed predictions (ONLY after Stage 3 is locked)
 
