@@ -48,3 +48,30 @@ Testing that my new highlight label from github issues works
 
 *Filed from [issue #3](https://github.com/aarongitlin/hub-briefs/issues/3)*
 
+
+---
+
+**Highlight tester**
+
+Testing that my new highlight label from github issues works
+
+*Filed from [issue #3](https://github.com/aarongitlin/hub-briefs/issues/3)*
+
+
+---
+
+**Highlight tester**
+
+Testing that my new highlight label from github issues works
+
+*Filed from [issue #3](https://github.com/aarongitlin/hub-briefs/issues/3)*
+
+
+---
+
+**Highlight tester**
+
+Testing that my new highlight label from github issues works
+
+*Filed from [issue #3](https://github.com/aarongitlin/hub-briefs/issues/3)*
+
