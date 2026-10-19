@@ -2,13 +2,14 @@
 
 Newest first. This page is regenerated on every sync, so edits here are overwritten.
 
-**Latest daily:** [Oct 18, 2026](personal-briefs/briefing-2026-10-18.md)  
+**Latest daily:** [Oct 19, 2026](personal-briefs/briefing-2026-10-19.md)  
 **Work-agent prompt:** [work-weekly-brief-prompt.md](personal-briefs/work-weekly-brief-prompt.md)
 
 ## Daily
 
 ### October 2026
 
+- [Oct 19, 2026](personal-briefs/briefing-2026-10-19.md)
 - [Oct 18, 2026](personal-briefs/briefing-2026-10-18.md)
 - [Oct 17, 2026](personal-briefs/briefing-2026-10-17.md)
 - [Oct 16, 2026](personal-briefs/briefing-2026-10-16.md)
