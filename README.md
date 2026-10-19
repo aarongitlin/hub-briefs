@@ -9,7 +9,6 @@ Newest first. This page is regenerated on every sync, so edits here are overwrit
 ## Weekly
 
 - [Week ending Oct 19, 2026](personal-briefs/weekly-2026-10-19.md)
-- [Week ending Oct 18, 2026](personal-briefs/weekly-2026-10-18.md)
 
 ## Daily
 
