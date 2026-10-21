@@ -3,7 +3,7 @@
 Newest first. This page is regenerated on every sync, so edits here are overwritten.
 
 **Latest weekly:** [Week ending Oct 19, 2026](personal-briefs/weekly-2026-10-19.md)  
-**Latest daily:** [Oct 20, 2026](personal-briefs/briefing-2026-10-20.md)  
+**Latest daily:** [Oct 21, 2026](personal-briefs/briefing-2026-10-21.md)  
 **Work-agent prompt:** [work-weekly-brief-prompt.md](personal-briefs/work-weekly-brief-prompt.md)
 
 ## Weekly
@@ -14,6 +14,7 @@ Newest first. This page is regenerated on every sync, so edits here are overwrit
 
 ### October 2026
 
+- [Oct 21, 2026](personal-briefs/briefing-2026-10-21.md)
 - [Oct 20, 2026](personal-briefs/briefing-2026-10-20.md)
 - [Oct 19, 2026](personal-briefs/briefing-2026-10-19.md)
 - [Oct 18, 2026](personal-briefs/briefing-2026-10-18.md)
