@@ -1,4 +1,7 @@
+## 2026-11-01
 
+While not new, the "[Ask Pinterest" App](https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/) is interesting, its all about building a taste profile without endless questions and tons of back and forth chat, and speaks to a lot of "discovery" taht we talk about:
+- "In an [announcement](https://newsroom.pinterest.com/en-us/news/cannes-2026) sharing the news, Pinterest’s chief business officer, Lee Brown, gestured toward the changing nature of web search, remarking that “the future of discovery won’t be driven by keywords alone. It will be shaped by context, taste, and trusted recommendations” — an area where Pinterest feels it has a “unique advantage,” Brown said."
 ## [[2026-10-25]]
 
 ### Commerce related
@@ -24,6 +27,15 @@ AI agents mediating discovery and decisions changes the entire concept of "campa
 
 Cutler says in TBM 427 that AI is just speeding up the creation of STUFF. this comes with lots of problems. Reminds me of what Rasmus Anderson said at Config about using AI to do things better, not just do more things. Maybe related to the "end of tokenmaxxing" as reporting by [CNBC](https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html)
 - This is kind of what Dylan Field is saying in this [Stratechery article](https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai/) - Figma as the layer in between thinking and shipping. Maybe begs the question if figma can also up up the design funnel a bit, sort of like figjam. maybe to gather insights? Last config seemed to go in the opposite direction. Feel kind of bad for Dylan. He's so young and he's at the epicenter of the entire question. #new-design
+
+
+---
+
+**Highlight tester**
+
+Testing that my new highlight label from github issues works
+
+*Filed from [issue #3](https://github.com/aarongitlin/hub-briefs/issues/3)*
 
 
 ---
