@@ -1,3 +1,13 @@
+## [[2026-11-25]]
+
+#affiliate-boost #shopthelook Big news: IG is becoming more shoppable than ever with Amazon affiliate integrations. Creators can attach the affiliates to reels and posts, IG takes no cut. Very direct competition to YT's affiliate program. [link](https://www.inc.com/kamya-marwah/instagram-shoppables-posts-amazon-social-commerce/91438898) 
+
+#creator-ecosystem #creatives Unilever says it works with 25x more creators than it did 2 years ago. Managing these creators and their videos/posts is complex. I wonder if advertiser attention will go more towards this and less towards traditional creatives, GMC assets, VideoGen, etc... [link](https://digiday.com/marketing/why-more-brands-are-paying-creators-to-make-their-ads/) 
+
+#shopping-graph Amazon says it is building a universal product graph for all items, inside and outside of amazon. Benedict Evans mentions this because something like that could be the de facto source of information for agents in the future. [link](https://www.thestar.com.my/tech/tech-news/2026/11/13/exclusive-amazons-plan-to-own-the-worlds-product-data-and-fight-ai-shopping-agents) (Evans analysis is behind paywall)
+
+#lumina #agentic-shopping Big question: will people buy stuff with agents this holiday season? AI pilled tech companies say yes, I'm curious what normal people will do. My parents are visiting and I asked them if they would trust an agent to buy something for them and they had no idea what I was talking about. Even after some explanation they were somewhere between a no and still not understanding. [link](https://www.digitalcommerce360.com/2026/11/19/holiday-shopping-forecast/) 
+
 ## 2026-11-01
 
 While not new, the "[Ask Pinterest" App](https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/) is interesting, its all about building a taste profile without endless questions and tons of back and forth chat, and speaks to a lot of "discovery" taht we talk about:
